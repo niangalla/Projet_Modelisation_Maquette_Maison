@@ -49,10 +49,11 @@ git clone https://github.com/niangalla/Projet_Modelisation_Maquette_Maison.git
 ````
 
 2. Installer Python si ce n’est pas déjà fait.
-3. Lancer le script principal :
+3. Lancer les scripts :
 
 ```bash
-python main.py
+python maison.py
+python pont.py
 ```
 
 4. Observer la construction graphique de la maquette dans la fenêtre Turtle.
