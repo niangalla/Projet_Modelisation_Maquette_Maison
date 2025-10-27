@@ -72,7 +72,3 @@ python main.py
 ## Auteurs
 
 * **Alla Niang** – Génie Logiciel
-
----
-Veux‑tu que je fasse ça ?
-```
